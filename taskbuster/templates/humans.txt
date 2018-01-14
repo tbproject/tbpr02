@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Vassily -- Developer -- @VassilyLa
+
+# THANKS
+
+    Marina Mele, based on whose work this site is based
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    Python, Django, Selenium
